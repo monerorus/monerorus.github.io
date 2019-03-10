@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FUD on Monero News</title>
+    <link>http://a.grelf.ru/categories/fud/</link>
+    <description>Recent content in FUD on Monero News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Sun, 03 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://a.grelf.ru/categories/fud/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Новость о фейковом хардфорке не повлияла на стоимость Monero</title>
+      <link>http://a.grelf.ru/news/2019/03/03/1/</link>
+      <pubDate>Sun, 03 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://a.grelf.ru/news/2019/03/03/1/</guid>
+      <description>Один из самых больших признаков того, что криптовалюта стала более зрелой, является реакция на негативные новости о ней. В 2018 году малейшие негативные новости вызывали серьезный массовый обвал цен. Однако сейчас все не так.
+В недавнем сообщении на Reddit от Guarda выяснилось, что существует вредоносный сайт якобы форка Monero под названием monero-rings.org.
+По сути, владелец сайта просто клонировал официальный репозиторий Monero на GitHub и немного отредактировал файл README.MD (файл описания проекта).</description>
+    </item>
+    
+  </channel>
+</rss>

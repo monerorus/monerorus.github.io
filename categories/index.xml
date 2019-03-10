@@ -10,5 +10,41 @@
 	<atom:link href="http://a.grelf.ru/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>FUD</title>
+      <link>http://a.grelf.ru/categories/fud/</link>
+      <pubDate>Sun, 03 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://a.grelf.ru/categories/fud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XMR</title>
+      <link>http://a.grelf.ru/categories/xmr/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://a.grelf.ru/categories/xmr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>malware</title>
+      <link>http://a.grelf.ru/categories/malware/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://a.grelf.ru/categories/malware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pools</title>
+      <link>http://a.grelf.ru/categories/pools/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://a.grelf.ru/categories/pools/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

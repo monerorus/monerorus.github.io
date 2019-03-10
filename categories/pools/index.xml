@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pools on Monero News</title>
+    <link>http://a.grelf.ru/categories/pools/</link>
+    <description>Recent content in pools on Monero News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Sat, 02 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://a.grelf.ru/categories/pools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coinhive закрывается</title>
+      <link>http://a.grelf.ru/news/2019/03/02/2/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://a.grelf.ru/news/2019/03/02/2/</guid>
+      <description>Некоторые из вас, возможно, ожидали этого, некоторые из вас будут удивлены случившемуся. Все же решение принято. Мы прекратим работу нашего сервиса 8 марта 2019 года. Последние 18 месяцев мы работали над данным проектом, но сейчас честно говоря, он больше не является экономически целесообразным.
+Падение хешрейта (более чем на 50%) после последнего хард-форка Monero ударило по нам очень сильно. То же самое произошло и с рынком криптовалют, когда стоимость XMR опустилась на более чем 85% в течение года.</description>
+    </item>
+    
+  </channel>
+</rss>
