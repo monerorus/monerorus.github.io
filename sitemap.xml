@@ -3,12 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://a.grelf.ru/news/2019/03/03/1/</loc>
+    <lastmod>2019-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://a.grelf.ru/news/2019/03/02/2/</loc>
+    <lastmod>2019-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://a.grelf.ru/news/2019/03/02/1/</loc>
+    <lastmod>2019-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://a.grelf.ru/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://a.grelf.ru/</loc>
+    <lastmod>2019-03-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://a.grelf.ru/news/</loc>
+    <lastmod>2019-03-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

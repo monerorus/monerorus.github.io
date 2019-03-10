@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Monero News</title>
-    <link>http://a.grelf.ru/</link>
-    <description>Recent content on Monero News</description>
+    <title>News on Monero News</title>
+    <link>http://a.grelf.ru/news/</link>
+    <description>Recent content in News on Monero News</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Sun, 03 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://a.grelf.ru/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://a.grelf.ru/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
