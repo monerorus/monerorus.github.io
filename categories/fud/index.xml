@@ -6,10 +6,21 @@
     <description>Recent content in FUD on Monero News</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 03 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://a.grelf.ru/categories/fud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Уязвимость в API контейнерах Docker позволяет хакерам майнить Monero</title>
+      <link>http://a.grelf.ru/news/2019/03/09/1/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://a.grelf.ru/news/2019/03/09/1/</guid>
+      <description>Недавно обнаруженная уязвимость на хостах Docker позволила злоумышленникам майнить Monero на сотнях сайтов.
+Дыра под кодовым обозначением CVE-2019-5736 позволяет злоумышленнику получить полный доступ в контейнер через удаленный API Docker. API Docker позволяет администраторам управлять удаленным узлом Docker, включая автоматизацию процесса развертывания, контроль и получение состояния контейнеров.
+Исследователи из Imperva Виталий Симонович и Ори Накар в своем отчете сообщили, что если злоумышленник получает доступ к контейнерам, то может быть скомпрометирована вся сеть.</description>
+    </item>
     
     <item>
       <title>Новость о фейковом хардфорке не повлияла на стоимость Monero</title>

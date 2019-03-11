@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>Уязвимость в API контейнерах Docker позволяет хакерам майнить Monero | Monero News</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    <link href="//cdn.bootcss.com/highlight.js/9.12.0/styles/github.min.css" rel="stylesheet">
+
+  </head>
+
+  <body class="page">
+    <nav class="header">
+      <div class="banner">
+<a href="/" class="text">
+MONERO NEWS
+</a>
+</div>
+
+      <div class="head-meta">
+      
+        <span><a href="/">&larr; На главную</a></span>
+        <span class="date">2019-03-09</span>
+        
+        
+        
+          
+        
+        
+        
+        
+      
+      </div>
+    </nav>
+
+<div class="container">
+<article>
+<div class="article-meta">
+
+  <div class="categories">
+  
+    <a href="/categories/fud">FUD</a>
+  
+  </div>
+
+  <h1><span class="title">Уязвимость в API контейнерах Docker позволяет хакерам майнить Monero</span></h1>
+
+  
+
+  
+  
+
+</div>
+
+
+
+<main>
+<p><img src="/news/2019/03/09/1-cover.png" alt="cover" /></p>
+
+<p>Недавно обнаруженная <a href="https://www.scmagazine.com/home/security-news/vulnerabilities/">уязвимость</a> на хостах Docker позволила злоумышленникам майнить Monero на сотнях сайтов.</p>
+
+<p>Дыра под кодовым обозначением CVE-2019-5736 позволяет злоумышленнику получить полный доступ в контейнер через удаленный API Docker. API Docker позволяет администраторам управлять удаленным узлом Docker, включая автоматизацию процесса развертывания, контроль и получение состояния контейнеров.</p>
+
+<p>Исследователи из Imperva Виталий Симонович и Ори Накар в своем <a href="https://www.imperva.com/blog/hundreds-of-vulnerable-docker-hosts-exploited-by-cryptocurrency-miners/">отчете</a> сообщили, что если злоумышленник получает доступ к контейнерам, то может быть скомпрометирована вся сеть.</p>
+
+<p>В Imperva обнаружили, что открытый удаленный Docker API был использован сотнями злоумышленников, многие из которых майнят Monero. Но есть и те, кто использует производственные среды серверов баз данных MySQL, Apache Tomcat и других.</p>
+
+<blockquote>
+<p>Мы нашли 3822 Docker хостов с открытым удаленным API и заинтересовались, сколько из этих IP-адресов действительно используются в корыстных целях. В нашем исследовании мы попытались подключиться к ним по порту 2735 и просмотреть образы Docker. Из 3822 IP-адресов злоумышленники используют около 400</p>
+</blockquote>
+
+<p>Кроме майнинга криптовалюты, такой уровень доступа позволяет злоумышленнику создавать ботнеты, хост-сервисы для фишинговых кампаний, воровать учетные данные, а также организовывать так называемые pivot-атаки на внутреннюю сеть.</p>
+
+<p><em>Источник: <a href="https://www.scmagazine.com/home/security-news/vulnerabilities/docker-api-vulnerability-allows-hackers-to-mine-monero/">Docker API vulnerability allows hackers to mine Monero</a><br />
+Перевод:
+<a href="https://xmr.ru/members/58/">hen</a> (@hhhpro)<br />
+Редактирование:
+<a href="https://xmr.ru/members/3/">Agent LvM</a> (@LvMi4)<br />
+Коррекция:
+<a href="https://xmr.ru/members/138/">Kukima</a></em></p>
+
+</main>
+
+
+
+
+
+<nav class="post-nav">
+  <span class="nav-prev"></span>
+  <span class="nav-next"><a href="/news/2019/03/03/1/">Новость о фейковом хардфорке не повлияла на стоимость Monero &rarr;</a></span>
+</nav>
+
+
+
+</article>
+</div>
+
+<script async src="//yihui.name/js/center-img.js"></script>
+
+<footer>
+
+<div class="footer">
+  <ul class="menu">
+    
+    <li><a href="/"><span data-hover="Home">Home</span></a></li>
+    
+    <li><a href="/about/"><span data-hover="About">About</span></a></li>
+    
+    <li><a href="/categories/"><span data-hover="Категории">Категории</span></a></li>
+    
+  </ul>
+  
+  <div class="copyright">&copy; [MoneroRus]() 2019 | <a href="https://github.com/">Github</a> | <a href="https://twitter.com/">Twitter</a></div>
+  
+</div>
+</footer>
+
+
+
+
+
+
+
+</body>
+</html>
+
