@@ -6,10 +6,22 @@
     <description>Recent content in FUD on Monero News</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://a.grelf.ru/categories/fud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Крейг «Сатоши» Райт планирует остановить работу анонимных монет</title>
+      <link>http://a.grelf.ru/news/2019/03/14/1/</link>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://a.grelf.ru/news/2019/03/14/1/</guid>
+      <description>Доктор Крейг Райт сказал Рану Нойнеру из CNBC Africa, что покончит с этим &amp;ldquo;цирком&amp;rdquo; в этом году.
+План Райта по прекращению работы Monero и ZCash
+Вот ещё одна недавняя комическая ситуация в мире криптовалют: доктор Крейг Райт недавно заинтересовался рынком криптовалют. А, может быть, это просто еще один способ привлечь внимание.
+Райт, австралийский ученый и самопровозглашенный создатель Bitcoin, сообщил Рану Нойнеру из CNBC Africa, что он знает, как остановить работу ZCash и Monero.</description>
+    </item>
     
     <item>
       <title>Уязвимость в API контейнерах Docker позволяет хакерам майнить Monero</title>
