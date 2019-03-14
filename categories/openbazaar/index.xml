@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpenBazaar on Monero News</title>
+    <link>http://a.grelf.ru/categories/openbazaar/</link>
+    <description>Recent content in OpenBazaar on Monero News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Sun, 03 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://a.grelf.ru/categories/openbazaar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Реализация поддержки Monero для OpenBazaar: анализ</title>
+      <link>http://a.grelf.ru/news/2019/03/03/2/</link>
+      <pubDate>Sun, 03 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://a.grelf.ru/news/2019/03/03/2/</guid>
+      <description>На OpenBazaar наблюдается серьёзная заинтересованность в добавлении Monero в качестве дополнительной криптовалюты для торгов. Чтобы убедиться в этом, достаточно почитать посты и треды здесь, здесь и здесь.
+В конце января 2019 я (Рене Бруннер (René Brunner), разработчик Monero, rbrunner7) вызвался провести тщательный анализ, который бы дал ответ, что из этого может получиться, а затем предоставить результаты сообществам Monero и OpenBazaar. Я не считал себя единственным возможным кандидатом на такую работу с точки зрения моих знаний и опыта, но на тот момент поблизости не было никого более квалифицированного, чтобы взяться за это дело, так что работой занялся именно я.</description>
+    </item>
+    
+  </channel>
+</rss>
